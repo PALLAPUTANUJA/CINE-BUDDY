@@ -1,0 +1,1190 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "username": "alex_scifi",
+      "email": "alex@scifi.com"
+    },
+    {
+      "id": "102",
+      "username": "emma_cinema",
+      "email": "emma@drama.org"
+    },
+    {
+      "id": "103",
+      "username": "marcus_action",
+      "email": "marcus@blockbuster.com"
+    }
+  ],
+  "ratings": [
+    {
+      "userId": "101",
+      "movieId": 1,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "101",
+      "movieId": 2,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "101",
+      "movieId": 7,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "101",
+      "movieId": 13,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "101",
+      "movieId": 22,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "101",
+      "movieId": 5,
+      "ratingValue": 1,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "102",
+      "movieId": 5,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "102",
+      "movieId": 6,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "102",
+      "movieId": 10,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "102",
+      "movieId": 17,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "102",
+      "movieId": 19,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "102",
+      "movieId": 1,
+      "ratingValue": 2,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 2,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 3,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 4,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 11,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 12,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 15,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "103",
+      "movieId": 21,
+      "ratingValue": 5,
+      "timestamp": "2026-05-30T08:52:43.923Z"
+    },
+    {
+      "userId": "guest-critic",
+      "movieId": 18,
+      "ratingValue": 4,
+      "timestamp": "2026-05-30T10:23:09.085Z"
+    },
+    {
+      "userId": "guest-critic",
+      "movieId": 1,
+      "ratingValue": 1,
+      "timestamp": "2026-05-30T10:23:11.659Z"
+    }
+  ],
+  "watchlist": [],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Interstellar",
+      "posterUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=500&q=80",
+      "rating": 6.4,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "keywords": [
+        "space exploration",
+        "time travel",
+        "black hole",
+        "wormhole",
+        "father-daughter relationship",
+        "climate change"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine"
+      ],
+      "director": "Christopher Nolan",
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "releaseDate": "2014-11-07",
+      "runtime": 169,
+      "trailerUrl": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "popularity": 95
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.8,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Thriller"
+      ],
+      "keywords": [
+        "dreams",
+        "subconscious",
+        "heist",
+        "mind bending",
+        "manipulation",
+        "architect"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page",
+        "Tom Hardy"
+      ],
+      "director": "Christopher Nolan",
+      "overview": "Cobb, a skilled thief who is absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, is offered a chance at redemption: inception.",
+      "releaseDate": "2010-07-16",
+      "runtime": 148,
+      "trailerUrl": "https://www.youtube.com/embed/YoHD9XEInc0",
+      "popularity": 98
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "posterUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=500&q=80",
+      "rating": 9,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "keywords": [
+        "batman",
+        "joker",
+        "vigilante",
+        "chaos",
+        "corrupt police",
+        "justice",
+        "psychopath"
+      ],
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Maggie Gyllenhaal"
+      ],
+      "director": "Christopher Nolan",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague Gotham.",
+      "releaseDate": "2008-07-18",
+      "runtime": 152,
+      "trailerUrl": "https://www.youtube.com/embed/LDG9bisJEaI",
+      "popularity": 99
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Endgame",
+      "posterUrl": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "keywords": [
+        "superheroes",
+        "time travel",
+        "marvel",
+        "thanos",
+        "redemption",
+        "sacrifice"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions.",
+      "releaseDate": "2019-04-26",
+      "runtime": 181,
+      "trailerUrl": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "popularity": 96
+    },
+    {
+      "id": 5,
+      "title": "Titanic",
+      "posterUrl": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "keywords": [
+        "shipwreck",
+        "forbidden love",
+        "historical event",
+        "class division",
+        "ocean liner"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates"
+      ],
+      "director": "James Cameron",
+      "overview": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "releaseDate": "1997-12-19",
+      "runtime": 194,
+      "trailerUrl": "https://www.youtube.com/embed/kVrqfYjknUA",
+      "popularity": 90
+    },
+    {
+      "id": 6,
+      "title": "Spirited Away",
+      "posterUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.6,
+      "genres": [
+        "Anime",
+        "Animation",
+        "Fantasy"
+      ],
+      "keywords": [
+        "spirits",
+        "witch",
+        "magic",
+        "studio ghibli",
+        "adventure",
+        "japanese folklore"
+      ],
+      "cast": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki",
+        "Takashi Naito"
+      ],
+      "director": "Hayao Miyazaki",
+      "overview": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "releaseDate": "2001-07-20",
+      "runtime": 125,
+      "trailerUrl": "https://www.youtube.com/embed/ByXuk9QqQkk",
+      "popularity": 94
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "posterUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.7,
+      "genres": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "keywords": [
+        "simulation",
+        "cyberpunk",
+        "machines",
+        "chosen one",
+        "red pill",
+        "hacker"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving"
+      ],
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "overview": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "releaseDate": "1999-03-31",
+      "runtime": 136,
+      "trailerUrl": "https://www.youtube.com/embed/vKQi3bBA1y8",
+      "popularity": 93
+    },
+    {
+      "id": 8,
+      "title": "Parasite",
+      "posterUrl": "https://images.unsplash.com/photo-1542204172-e7052809a850?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.5,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "keywords": [
+        "class warfare",
+        "social divisions",
+        "infiltration",
+        "korean cinema",
+        "dark comedy",
+        "deception"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong",
+        "Choi Woo-shik"
+      ],
+      "director": "Bong Joon Ho",
+      "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "releaseDate": "2019-05-30",
+      "runtime": 132,
+      "trailerUrl": "https://www.youtube.com/embed/5xH0HfJHsaY",
+      "popularity": 92
+    },
+    {
+      "id": 9,
+      "title": "Whiplash",
+      "posterUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.5,
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "jazz",
+        "drummer",
+        "obsessive passion",
+        "strict teacher",
+        "conservatory",
+        "sacrifice"
+      ],
+      "cast": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser",
+        "Melissa Benoist"
+      ],
+      "director": "Damien Chazelle",
+      "overview": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "releaseDate": "2014-10-10",
+      "runtime": 106,
+      "trailerUrl": "https://www.youtube.com/embed/7d_jQyG8DQY",
+      "popularity": 89
+    },
+    {
+      "id": 10,
+      "title": "Your Name",
+      "posterUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.4,
+      "genres": [
+        "Anime",
+        "Animation",
+        "Romance",
+        "Drama"
+      ],
+      "keywords": [
+        "body swap",
+        "comet",
+        "fate",
+        "love story",
+        "tokyo",
+        "rural japan"
+      ],
+      "cast": [
+        "Ryunosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ryo Narita",
+        "Aoi Yuki"
+      ],
+      "director": "Makoto Shinkai",
+      "overview": "Two strangers find themselves linked in a bizarre way. When a connection is formed, will distance be the only thing to keep them apart?",
+      "releaseDate": "2016-08-26",
+      "runtime": 106,
+      "trailerUrl": "https://www.youtube.com/embed/xEVr69S16gU",
+      "popularity": 91
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "posterUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "keywords": [
+        "roman empire",
+        "vengeance",
+        "gladiator fight",
+        "general",
+        "betrayal",
+        "emperor"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed"
+      ],
+      "director": "Ridley Scott",
+      "overview": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "releaseDate": "2000-05-05",
+      "runtime": 155,
+      "trailerUrl": "https://www.youtube.com/embed/P5ieIbInFpg",
+      "popularity": 93
+    },
+    {
+      "id": 12,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "posterUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "keywords": [
+        "miles morales",
+        "multiverse",
+        "spider-man",
+        "alternate dimension",
+        "growing up"
+      ],
+      "cast": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali"
+      ],
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "overview": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "releaseDate": "2018-12-14",
+      "runtime": 117,
+      "trailerUrl": "https://www.youtube.com/embed/g4HbzUKgTX0",
+      "popularity": 95
+    },
+    {
+      "id": 13,
+      "title": "Dune",
+      "posterUrl": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?auto=format&fit=crop&w=500&q=80",
+      "rating": 8,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "keywords": [
+        "desert planet",
+        "spice",
+        "prophecy",
+        "nobility",
+        "imperial conflict",
+        "destiny"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac",
+        "Zendaya"
+      ],
+      "director": "Denis Villeneuve",
+      "overview": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir is plagued by visions of a dark future.",
+      "releaseDate": "2021-10-22",
+      "runtime": 155,
+      "trailerUrl": "https://www.youtube.com/embed/8g18jFHCLhs",
+      "popularity": 94
+    },
+    {
+      "id": 14,
+      "title": "Get Out",
+      "posterUrl": "https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.8,
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "keywords": [
+        "hypnosis",
+        "racial prejudice",
+        "suburbia",
+        "secret society",
+        "mind control"
+      ],
+      "cast": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford",
+        "Catherine Keener"
+      ],
+      "director": "Jordan Peele",
+      "overview": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception eventually reaches a boiling point.",
+      "releaseDate": "2017-02-24",
+      "runtime": 104,
+      "trailerUrl": "https://www.youtube.com/embed/sRfnebTo87I",
+      "popularity": 88
+    },
+    {
+      "id": 15,
+      "title": "Shutter Island",
+      "posterUrl": "https://images.unsplash.com/photo-1549490349-8643362247b5?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.2,
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "keywords": [
+        "asylum",
+        "psychological thriller",
+        "detective",
+        "delusions",
+        "tragedy",
+        "conspiracy"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley",
+        "Michelle Williams"
+      ],
+      "director": "Martin Scorsese",
+      "overview": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane on Shutter Island.",
+      "releaseDate": "2010-02-19",
+      "runtime": 138,
+      "trailerUrl": "https://www.youtube.com/embed/5iaYLCip5To",
+      "popularity": 92
+    },
+    {
+      "id": 16,
+      "title": "Toy Story",
+      "posterUrl": "https://images.unsplash.com/photo-1608889174633-41bbacfaedf4?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.3,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "keywords": [
+        "toys coming to life",
+        "jealousy",
+        "friendship",
+        "boy's bedroom",
+        "pixar"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles",
+        "Jim Varney"
+      ],
+      "director": "John Lasseter",
+      "overview": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "releaseDate": "1995-11-22",
+      "runtime": 81,
+      "trailerUrl": "https://www.youtube.com/embed/CxwTLktovTU",
+      "popularity": 87
+    },
+    {
+      "id": 17,
+      "title": "Coco",
+      "posterUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.4,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "keywords": [
+        "day of the dead",
+        "mexico",
+        "family ancestry",
+        "guitar",
+        "music passion",
+        "afterlife"
+      ],
+      "cast": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach"
+      ],
+      "director": "Lee Unkrich",
+      "overview": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "releaseDate": "2017-11-22",
+      "runtime": 105,
+      "trailerUrl": "https://www.youtube.com/embed/zNCz4mQzfEI",
+      "popularity": 91
+    },
+    {
+      "id": 18,
+      "title": "The Godfather",
+      "posterUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.3,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "keywords": [
+        "mafia",
+        "family loyalty",
+        "organized crime",
+        "vengeance",
+        "gangster boss",
+        "succession"
+      ],
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Diane Keaton"
+      ],
+      "director": "Francis Ford Coppola",
+      "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "releaseDate": "1972-03-24",
+      "runtime": 175,
+      "trailerUrl": "https://www.youtube.com/embed/UaVTIH8mujA",
+      "popularity": 97
+    },
+    {
+      "id": 19,
+      "title": "La La Land",
+      "posterUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=500&q=80",
+      "rating": 8,
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "keywords": [
+        "dancing",
+        "singing",
+        "jazz",
+        "los angeles",
+        "actors life",
+        "bittersweet romance"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend",
+        "Rosemarie DeWitt"
+      ],
+      "director": "Damien Chazelle",
+      "overview": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+      "releaseDate": "2016-12-09",
+      "runtime": 128,
+      "trailerUrl": "https://www.youtube.com/embed/0pdqf4P9MB8",
+      "popularity": 88
+    },
+    {
+      "id": 20,
+      "title": "The Social Network",
+      "posterUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.8,
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "facebook",
+        "harvard",
+        "lawsuit",
+        "friendship betrayal",
+        "pioneer tech",
+        "startup"
+      ],
+      "cast": [
+        "Jesse Eisenberg",
+        "Andrew Garfield",
+        "Justin Timberlake",
+        "Armie Hammer"
+      ],
+      "director": "David Fincher",
+      "overview": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by his former friend who was squeezed out of the business.",
+      "releaseDate": "2010-10-01",
+      "runtime": 120,
+      "trailerUrl": "https://www.youtube.com/embed/-K71s7I1g9Y",
+      "popularity": 86
+    },
+    {
+      "id": 21,
+      "title": "Django Unchained",
+      "posterUrl": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.4,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "keywords": [
+        "slavery",
+        "bounty hunter",
+        "southern US",
+        "vengeance",
+        "tarantino",
+        "shootout"
+      ],
+      "cast": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio",
+        "Kerry Washington"
+      ],
+      "director": "Quentin Tarantino",
+      "overview": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "releaseDate": "2012-12-25",
+      "runtime": 165,
+      "trailerUrl": "https://www.youtube.com/embed/s8CO_OElf08",
+      "popularity": 94
+    },
+    {
+      "id": 22,
+      "title": "Arrival",
+      "posterUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.9,
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Drama"
+      ],
+      "keywords": [
+        "aliens",
+        "linguistics",
+        "communication",
+        "time perception",
+        "spacecraft",
+        "heptapods"
+      ],
+      "cast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg"
+      ],
+      "director": "Denis Villeneuve",
+      "overview": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+      "releaseDate": "2016-11-11",
+      "runtime": 116,
+      "trailerUrl": "https://www.youtube.com/embed/AMgyWT075KY",
+      "popularity": 90
+    },
+    {
+      "id": 23,
+      "title": "Baahubali: The Beginning",
+      "posterUrl": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.1,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "keywords": [
+        "kingdom",
+        "royal family",
+        "heir",
+        "warrior",
+        "epic battle",
+        "legendary sword"
+      ],
+      "cast": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty",
+        "Tamannaah Bhatia"
+      ],
+      "director": "S.S. Rajamouli",
+      "overview": "In ancient India, an adventurous and daring man becomes involved in a decadelong feud between two warring brothers in a majestic kingdom.",
+      "releaseDate": "2015-07-10",
+      "runtime": 159,
+      "trailerUrl": "https://www.youtube.com/embed/sOEg_QqMacY",
+      "popularity": 91
+    },
+    {
+      "id": 24,
+      "title": "Baahubali 2: The Conclusion",
+      "posterUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.2,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "keywords": [
+        "betrayal",
+        "coronation",
+        "conspiracy",
+        "revenge",
+        "tragic hero"
+      ],
+      "cast": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty",
+        "Sathyaraj"
+      ],
+      "director": "S.S. Rajamouli",
+      "overview": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+      "releaseDate": "2017-04-28",
+      "runtime": 167,
+      "trailerUrl": "https://www.youtube.com/embed/qD-6d8Dy3JE",
+      "popularity": 93
+    },
+    {
+      "id": 25,
+      "title": "RRR",
+      "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=500&q=80",
+      "rating": 8,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "keywords": [
+        "british empire",
+        "revolution",
+        "freedom fight",
+        "epic brotherhood",
+        "tiger fight",
+        "dance off"
+      ],
+      "cast": [
+        "N.T. Rama Rao Jr.",
+        "Ram Charan",
+        "Ajay Devgn",
+        "Alia Bhatt"
+      ],
+      "director": "S.S. Rajamouli",
+      "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+      "releaseDate": "2022-03-24",
+      "runtime": 187,
+      "trailerUrl": "https://www.youtube.com/embed/NgBoMJy386M",
+      "popularity": 95
+    },
+    {
+      "id": 26,
+      "title": "Eega",
+      "posterUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.7,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "keywords": [
+        "reincarnation",
+        "housefly",
+        "revenge",
+        "mad scientist"
+      ],
+      "cast": [
+        "Nani",
+        "Samantha Ruth Prabhu",
+        "Sudeep"
+      ],
+      "director": "S.S. Rajamouli",
+      "overview": "A murdered man is reincarnated as a housefly and seeks to avenge his death and protect his love from the villain who killed him.",
+      "releaseDate": "2012-07-06",
+      "runtime": 145,
+      "trailerUrl": "https://www.youtube.com/embed/F69N7w_f1G0",
+      "popularity": 83
+    },
+    {
+      "id": 27,
+      "title": "Mahanati",
+      "posterUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.5,
+      "language": "Telugu",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "keywords": [
+        "retro cinema",
+        "actress biography",
+        "stardom",
+        "downfall",
+        "south indian cinema"
+      ],
+      "cast": [
+        "Keerthy Suresh",
+        "Dulquer Salmaan",
+        "Samantha Ruth Prabhu",
+        "Vijay Deverakonda"
+      ],
+      "director": "Nag Ashwin",
+      "overview": "Biography of Savitri, an influential South Indian actress of the 1950s and 60s, who ruled the industry but faced a tragic personal downfall.",
+      "releaseDate": "2018-05-09",
+      "runtime": 177,
+      "trailerUrl": "https://www.youtube.com/embed/0GIn9L_p3zY",
+      "popularity": 86
+    },
+    {
+      "id": 28,
+      "title": "Jersey",
+      "posterUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.6,
+      "language": "Telugu",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "keywords": [
+        "cricket game",
+        "sports drama",
+        "late bloomer",
+        "father son love",
+        "heart condition"
+      ],
+      "cast": [
+        "Nani",
+        "Shraddha Srinath",
+        "Ronit Kamra"
+      ],
+      "director": "Gowtam Tinnanuri",
+      "overview": "A failed thirty-six-year-old cricketer decides to revive his career to fulfill his son's dream of getting an Indian jersey.",
+      "releaseDate": "2019-04-19",
+      "runtime": 140,
+      "trailerUrl": "https://www.youtube.com/embed/rPZfSg97VVI",
+      "popularity": 88
+    },
+    {
+      "id": 29,
+      "title": "Pushpa: The Rise",
+      "posterUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.6,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "keywords": [
+        "red sandalwood",
+        "smuggling",
+        "underdog rise",
+        "local hero",
+        "forest style"
+      ],
+      "cast": [
+        "Allu Arjun",
+        "Fahadh Faasil",
+        "Rashmika Mandanna"
+      ],
+      "director": "Sukumar",
+      "overview": "A laborer rises through the ranks of a red sandalwood smuggling syndicate, making powerful enemies and unleashing local mass action.",
+      "releaseDate": "2021-12-17",
+      "runtime": 179,
+      "trailerUrl": "https://www.youtube.com/embed/pKctjlZb1P0",
+      "popularity": 92
+    },
+    {
+      "id": 30,
+      "title": "Ala Vaikunthapurramuloo",
+      "posterUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.3,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "keywords": [
+        "baby swap",
+        "wealthy empire",
+        "stylish dance",
+        "musical hit",
+        "family reunion"
+      ],
+      "cast": [
+        "Allu Arjun",
+        "Pooja Hegde",
+        "Tabu",
+        "Murali Sharma"
+      ],
+      "director": "Trivikram Srinivas",
+      "overview": "Valmiki swaps his son with his wealthy boss's son to give him a comfortable life. Years later, the truth begins to unravel around the stylish protagonist.",
+      "releaseDate": "2020-01-12",
+      "runtime": 163,
+      "trailerUrl": "https://www.youtube.com/embed/vAnV6u_GMcI",
+      "popularity": 89
+    },
+    {
+      "id": 31,
+      "title": "Devara: Part 1",
+      "posterUrl": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.1,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "keywords": [
+        "coastal sea",
+        "coastal warriors",
+        "pirates",
+        "weapon theft",
+        "brotherhood legacy"
+      ],
+      "cast": [
+        "N.T. Rama Rao Jr.",
+        "Saif Ali Khan",
+        "Janhvi Kapoor"
+      ],
+      "director": "Koratala Siva",
+      "overview": "A coastal warrior fights against container smugglers and pirate rings to protect his native islands, leaving an epic legacy of terror.",
+      "releaseDate": "2024-09-27",
+      "runtime": 178,
+      "trailerUrl": "https://www.youtube.com/embed/3A_981oIAtc",
+      "popularity": 91
+    },
+    {
+      "id": 32,
+      "title": "Kalki 2898 AD",
+      "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=500&q=80",
+      "rating": 8.0,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "keywords": [
+        "dystopia",
+        "mythology",
+        "mahabharat",
+        "avatar descent",
+        "cyberpunk city",
+        "futuristic vehicle"
+      ],
+      "cast": [
+        "Prabhas",
+        "Amitabh Bachchan",
+        "Deepika Padukone",
+        "Kamal Haasan"
+      ],
+      "director": "Nag Ashwin",
+      "overview": "In the post-apocalyptic city of Kasi, a bounty hunter with zero care for the world becomes involved in an epic clash to protect the womb of a mother bearing an avatar.",
+      "releaseDate": "2024-06-27",
+      "runtime": 181,
+      "trailerUrl": "https://www.youtube.com/embed/kQDdBSTp3M4",
+      "popularity": 96
+    },
+    {
+      "id": 33,
+      "title": "Aravinda Sametha Veera Raghava",
+      "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.7,
+      "language": "Telugu",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "keywords": [
+        "factionalism",
+        "village feud",
+        "violence peace",
+        "legacy struggle"
+      ],
+      "cast": [
+        "N.T. Rama Rao Jr.",
+        "Pooja Hegde",
+        "Jagapathi Babu"
+      ],
+      "director": "Trivikram Srinivas",
+      "overview": "A young man returning from London learns about the brutal factionalism ruling his region and attempts to bring an end to decades of bloodshed.",
+      "releaseDate": "2018-10-11",
+      "runtime": 162,
+      "trailerUrl": "https://www.youtube.com/embed/L1_3-VzRAn0",
+      "popularity": 87
+    },
+    {
+      "id": 34,
+      "title": "Srimanthudu",
+      "posterUrl": "https://images.unsplash.com/photo-1542223175-75bc2ed7b3c9?auto=format&fit=crop&w=500&q=80",
+      "rating": 7.5,
+      "language": "Telugu",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "keywords": [
+        "village adoption",
+        "social developer",
+        "wealthy heir",
+        "philanthropy"
+      ],
+      "cast": [
+        "Mahesh Babu",
+        "Shruti Haasan",
+        "Jagapathi Babu"
+      ],
+      "director": "Koratala Siva",
+      "overview": "The wealthy heir of a major business empire adopts a struggling rural village in order to bring basic infrastructure, facing off against tyrannical local landlords.",
+      "releaseDate": "2015-08-07",
+      "runtime": 158,
+      "trailerUrl": "https://www.youtube.com/embed/7R9_n4y8Zrs",
+      "popularity": 86
+    }
+  ]
+}

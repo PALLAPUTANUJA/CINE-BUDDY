@@ -1,0 +1,6 @@
+{
+  "name": "CINE BUDDY",
+  "description": "An intelligent full-stack Movie Recommendation System using Content-Based and Collaborative Filtering, featuring personalized dashboard analytics and a conversational AI movie assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
